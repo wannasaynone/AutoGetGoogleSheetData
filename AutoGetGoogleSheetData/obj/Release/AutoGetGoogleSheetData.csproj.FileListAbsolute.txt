@@ -1,0 +1,11 @@
+D:\work\AutoGetGoogleSheetData\AutoGetGoogleSheetData\AutoGetGoogleSheetData\bin\Release\AutoGetGoogleSheetData.exe.config
+D:\work\AutoGetGoogleSheetData\AutoGetGoogleSheetData\AutoGetGoogleSheetData\bin\Release\AutoGetGoogleSheetData.exe
+D:\work\AutoGetGoogleSheetData\AutoGetGoogleSheetData\AutoGetGoogleSheetData\bin\Release\AutoGetGoogleSheetData.pdb
+D:\work\AutoGetGoogleSheetData\AutoGetGoogleSheetData\AutoGetGoogleSheetData\obj\Release\AutoGetGoogleSheetData.csproj.CoreCompileInputs.cache
+D:\work\AutoGetGoogleSheetData\AutoGetGoogleSheetData\AutoGetGoogleSheetData\obj\Release\AutoGetGoogleSheetData.exe
+D:\work\AutoGetGoogleSheetData\AutoGetGoogleSheetData\AutoGetGoogleSheetData\obj\Release\AutoGetGoogleSheetData.pdb
+D:\work\AutoGetGoogleSheetData\AutoGetGoogleSheetData\AutoGetGoogleSheetData\bin\Release\HtmlAgilityPack.dll
+D:\work\AutoGetGoogleSheetData\AutoGetGoogleSheetData\AutoGetGoogleSheetData\bin\Release\WebDriver.dll
+D:\work\AutoGetGoogleSheetData\AutoGetGoogleSheetData\AutoGetGoogleSheetData\bin\Release\HtmlAgilityPack.pdb
+D:\work\AutoGetGoogleSheetData\AutoGetGoogleSheetData\AutoGetGoogleSheetData\bin\Release\HtmlAgilityPack.xml
+D:\work\AutoGetGoogleSheetData\AutoGetGoogleSheetData\AutoGetGoogleSheetData\obj\Release\AutoGetGoogleSheetData.csproj.CopyComplete
