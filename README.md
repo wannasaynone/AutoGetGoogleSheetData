@@ -1,6 +1,11 @@
 # AutoGetGoogleSheetData
 
 ## Usage
+
+下載：https://github.com/wannasaynone/AutoGetGoogleSheetData/releases  
+
+
+
 1. 編輯Setting檔案  
 格式為 ```試算表名稱|試算表ID```，換行以同時抓取多張表格  
 可同時抓取不同表格ID、不同表格名稱的資料  
