@@ -9,7 +9,7 @@ namespace AutoGetGoogleSheetData
     class Program
     {
         private const string KEY = "AIzaSyAkpLxtgUPyHYDRLZlTc1veBhcW1WDhqnY";
-        private const string GET_DATA_URL = "http://172-105-200-91.ip.linodeusercontent.com:8080/api/v1/sheetData/?id={0}&name={1}";
+        private const string GET_DATA_URL = "http://172-105-200-91.ip.linodeusercontent.com:8080/api/v1/sheetData/?id={0}&name={1}&pretty=1";
 
 
         private class GetDataSetting
